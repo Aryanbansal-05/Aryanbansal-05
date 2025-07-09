@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Aryan Bansal, a React Developer focused on building scalable, user-centric interfaces that solve real-world problems.</h2>
+<h2 align="left">👋 Hi, I'm Aryan Bansal, a Full stack Developer focused on building scalable, user-centric interfaces that solve real-world problems.</h2>
 
 ###
 
