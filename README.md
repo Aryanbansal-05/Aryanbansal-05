@@ -15,10 +15,6 @@
 
 ###
 
-<img align="right" height="150" src=""  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -67,11 +63,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Aryanbansal-05/Aryanbansal-05/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!--
 **Aryanbansal-05/Aryanbansal-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
